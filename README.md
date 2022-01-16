@@ -1,5 +1,5 @@
 # Diabetes Prediction #
- Aims to create a model that classifies a respondent as either diabetic or notdiabetic based on the features in the dataset.
+ Aims to build a model that classifies a respondent as either diabetic or nondiabetic based on the features in the dataset.
 #### By **Rachel Mukami**
 ## Description
 The solution to the research problem will help to create models that are able to predict accurately(80%-90%) the diabetes status of a respondent.
